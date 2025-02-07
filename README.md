@@ -214,7 +214,7 @@ This repository contains a series of tasks designed to demonstrate various featu
 
 **Steps:**
 1. Use `AVERAGEIF()` to calculate the average salary for the "HR" department.
-
+2. Use AVERAGEIF() to calculate the average salary for the "IT" department.
 
 
 ## Contributing
